@@ -16,13 +16,7 @@ animation: left-to-right 3s ease-in forwards infinite;
 }
 
 
-.parent:hover .child{
-    
 
-
-
-
-}
 
 @keyframes left-to-right{
     0%{
